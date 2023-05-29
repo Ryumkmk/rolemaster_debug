@@ -1,0 +1,6 @@
+{
+    "name": "RoleMaster",
+    "short_name": "RoleMaster",
+    "start_url": "/",
+    "display": "standalone"
+}
